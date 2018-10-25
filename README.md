@@ -1,8 +1,5 @@
 # Todo App with React Native, Realm
 
-### Guide
-https://hellokoding.com/todo-app-with-react-native-realm/
-
 ### What you'll need
 - MacOS, Xcode
 - NodeJS
